@@ -2,7 +2,7 @@ const products = [
 
     {
         _id: '1',
-        name: 'Product 1',
+        name: 'Product 1 elipses text test lorem ipsum',
         image: '/images/alexa.jpg',
         description:
             'lorem ipsum...',
@@ -10,7 +10,7 @@ const products = [
         category: 'Electronics',
         price: 29.99,
         countInstock: 0,
-        rating: 4,
+        rating: 4.5,
         numReviews: 12,
 
     },
